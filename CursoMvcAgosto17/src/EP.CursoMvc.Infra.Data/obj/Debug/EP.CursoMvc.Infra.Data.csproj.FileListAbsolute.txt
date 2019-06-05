@@ -1,0 +1,17 @@
+A:\Videos\ASP.NET\Archives\MatMvcAgo17Adv_II\src\EP.CursoMvc.Infra.Data\bin\Debug\EP.CursoMvc.Infra.Data.dll.config
+A:\Videos\ASP.NET\Archives\MatMvcAgo17Adv_II\src\EP.CursoMvc.Infra.Data\bin\Debug\EP.CursoMvc.Infra.Data.dll
+A:\Videos\ASP.NET\Archives\MatMvcAgo17Adv_II\src\EP.CursoMvc.Infra.Data\bin\Debug\EP.CursoMvc.Infra.Data.pdb
+A:\Videos\ASP.NET\Archives\MatMvcAgo17Adv_II\src\EP.CursoMvc.Infra.Data\bin\Debug\Dapper.dll
+A:\Videos\ASP.NET\Archives\MatMvcAgo17Adv_II\src\EP.CursoMvc.Infra.Data\bin\Debug\DomainValidation.dll
+A:\Videos\ASP.NET\Archives\MatMvcAgo17Adv_II\src\EP.CursoMvc.Infra.Data\bin\Debug\EntityFramework.dll
+A:\Videos\ASP.NET\Archives\MatMvcAgo17Adv_II\src\EP.CursoMvc.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+A:\Videos\ASP.NET\Archives\MatMvcAgo17Adv_II\src\EP.CursoMvc.Infra.Data\bin\Debug\EP.CursoMvc.Domain.dll
+A:\Videos\ASP.NET\Archives\MatMvcAgo17Adv_II\src\EP.CursoMvc.Infra.Data\bin\Debug\EP.CursoMvc.Domain.pdb
+A:\Videos\ASP.NET\Archives\MatMvcAgo17Adv_II\src\EP.CursoMvc.Infra.Data\bin\Debug\Dapper.xml
+A:\Videos\ASP.NET\Archives\MatMvcAgo17Adv_II\src\EP.CursoMvc.Infra.Data\bin\Debug\EntityFramework.xml
+A:\Videos\ASP.NET\Archives\MatMvcAgo17Adv_II\src\EP.CursoMvc.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+A:\Videos\ASP.NET\Archives\MatMvcAgo17Adv_II\src\EP.CursoMvc.Infra.Data\obj\Debug\EP.CursoMvc.Infra.Data.csprojAssemblyReference.cache
+A:\Videos\ASP.NET\Archives\MatMvcAgo17Adv_II\src\EP.CursoMvc.Infra.Data\obj\Debug\EP.CursoMvc.Infra.Data.csproj.CoreCompileInputs.cache
+A:\Videos\ASP.NET\Archives\MatMvcAgo17Adv_II\src\EP.CursoMvc.Infra.Data\obj\Debug\EP.CursoMvc.Infra.Data.csproj.CopyComplete
+A:\Videos\ASP.NET\Archives\MatMvcAgo17Adv_II\src\EP.CursoMvc.Infra.Data\obj\Debug\EP.CursoMvc.Infra.Data.dll
+A:\Videos\ASP.NET\Archives\MatMvcAgo17Adv_II\src\EP.CursoMvc.Infra.Data\obj\Debug\EP.CursoMvc.Infra.Data.pdb

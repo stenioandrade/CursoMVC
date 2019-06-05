@@ -1,0 +1,17 @@
+A:\OneDrive\Cursos\ASP.NET\MyProjects\CursoMvcAgosto17\src\EP.CursoMvc.Infra.Data\bin\Release\EP.CursoMvc.Infra.Data.dll.config
+A:\OneDrive\Cursos\ASP.NET\MyProjects\CursoMvcAgosto17\src\EP.CursoMvc.Infra.Data\bin\Release\EP.CursoMvc.Infra.Data.dll
+A:\OneDrive\Cursos\ASP.NET\MyProjects\CursoMvcAgosto17\src\EP.CursoMvc.Infra.Data\bin\Release\EP.CursoMvc.Infra.Data.pdb
+A:\OneDrive\Cursos\ASP.NET\MyProjects\CursoMvcAgosto17\src\EP.CursoMvc.Infra.Data\bin\Release\Dapper.dll
+A:\OneDrive\Cursos\ASP.NET\MyProjects\CursoMvcAgosto17\src\EP.CursoMvc.Infra.Data\bin\Release\DomainValidation.dll
+A:\OneDrive\Cursos\ASP.NET\MyProjects\CursoMvcAgosto17\src\EP.CursoMvc.Infra.Data\bin\Release\EntityFramework.dll
+A:\OneDrive\Cursos\ASP.NET\MyProjects\CursoMvcAgosto17\src\EP.CursoMvc.Infra.Data\bin\Release\EntityFramework.SqlServer.dll
+A:\OneDrive\Cursos\ASP.NET\MyProjects\CursoMvcAgosto17\src\EP.CursoMvc.Infra.Data\bin\Release\EP.CursoMvc.Domain.dll
+A:\OneDrive\Cursos\ASP.NET\MyProjects\CursoMvcAgosto17\src\EP.CursoMvc.Infra.Data\bin\Release\EP.CursoMvc.Domain.pdb
+A:\OneDrive\Cursos\ASP.NET\MyProjects\CursoMvcAgosto17\src\EP.CursoMvc.Infra.Data\bin\Release\Dapper.xml
+A:\OneDrive\Cursos\ASP.NET\MyProjects\CursoMvcAgosto17\src\EP.CursoMvc.Infra.Data\bin\Release\EntityFramework.xml
+A:\OneDrive\Cursos\ASP.NET\MyProjects\CursoMvcAgosto17\src\EP.CursoMvc.Infra.Data\bin\Release\EntityFramework.SqlServer.xml
+A:\OneDrive\Cursos\ASP.NET\MyProjects\CursoMvcAgosto17\src\EP.CursoMvc.Infra.Data\obj\Release\EP.CursoMvc.Infra.Data.csprojAssemblyReference.cache
+A:\OneDrive\Cursos\ASP.NET\MyProjects\CursoMvcAgosto17\src\EP.CursoMvc.Infra.Data\obj\Release\EP.CursoMvc.Infra.Data.csproj.CoreCompileInputs.cache
+A:\OneDrive\Cursos\ASP.NET\MyProjects\CursoMvcAgosto17\src\EP.CursoMvc.Infra.Data\obj\Release\EP.CursoMvc.Infra.Data.csproj.CopyComplete
+A:\OneDrive\Cursos\ASP.NET\MyProjects\CursoMvcAgosto17\src\EP.CursoMvc.Infra.Data\obj\Release\EP.CursoMvc.Infra.Data.dll
+A:\OneDrive\Cursos\ASP.NET\MyProjects\CursoMvcAgosto17\src\EP.CursoMvc.Infra.Data\obj\Release\EP.CursoMvc.Infra.Data.pdb

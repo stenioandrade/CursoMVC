@@ -1,0 +1,8 @@
+A:\OneDrive\Cursos\ASP.NET\MyProjects\CursoMvcAgosto17\src\EP.CursoMvc.Domain\bin\Release\EP.CursoMvc.Domain.dll
+A:\OneDrive\Cursos\ASP.NET\MyProjects\CursoMvcAgosto17\src\EP.CursoMvc.Domain\bin\Release\EP.CursoMvc.Domain.pdb
+A:\OneDrive\Cursos\ASP.NET\MyProjects\CursoMvcAgosto17\src\EP.CursoMvc.Domain\bin\Release\DomainValidation.dll
+A:\OneDrive\Cursos\ASP.NET\MyProjects\CursoMvcAgosto17\src\EP.CursoMvc.Domain\obj\Release\EP.CursoMvc.Domain.csprojAssemblyReference.cache
+A:\OneDrive\Cursos\ASP.NET\MyProjects\CursoMvcAgosto17\src\EP.CursoMvc.Domain\obj\Release\EP.CursoMvc.Domain.csproj.CoreCompileInputs.cache
+A:\OneDrive\Cursos\ASP.NET\MyProjects\CursoMvcAgosto17\src\EP.CursoMvc.Domain\obj\Release\EP.CursoMvc.Domain.csproj.CopyComplete
+A:\OneDrive\Cursos\ASP.NET\MyProjects\CursoMvcAgosto17\src\EP.CursoMvc.Domain\obj\Release\EP.CursoMvc.Domain.dll
+A:\OneDrive\Cursos\ASP.NET\MyProjects\CursoMvcAgosto17\src\EP.CursoMvc.Domain\obj\Release\EP.CursoMvc.Domain.pdb

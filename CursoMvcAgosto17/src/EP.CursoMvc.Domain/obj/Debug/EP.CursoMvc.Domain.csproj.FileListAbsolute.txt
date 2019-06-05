@@ -1,0 +1,8 @@
+A:\Videos\ASP.NET\Archives\MatMvcAgo17Adv_II\src\EP.CursoMvc.Domain\bin\Debug\EP.CursoMvc.Domain.dll
+A:\Videos\ASP.NET\Archives\MatMvcAgo17Adv_II\src\EP.CursoMvc.Domain\bin\Debug\EP.CursoMvc.Domain.pdb
+A:\Videos\ASP.NET\Archives\MatMvcAgo17Adv_II\src\EP.CursoMvc.Domain\bin\Debug\DomainValidation.dll
+A:\Videos\ASP.NET\Archives\MatMvcAgo17Adv_II\src\EP.CursoMvc.Domain\obj\Debug\EP.CursoMvc.Domain.csprojAssemblyReference.cache
+A:\Videos\ASP.NET\Archives\MatMvcAgo17Adv_II\src\EP.CursoMvc.Domain\obj\Debug\EP.CursoMvc.Domain.csproj.CoreCompileInputs.cache
+A:\Videos\ASP.NET\Archives\MatMvcAgo17Adv_II\src\EP.CursoMvc.Domain\obj\Debug\EP.CursoMvc.Domain.csproj.CopyComplete
+A:\Videos\ASP.NET\Archives\MatMvcAgo17Adv_II\src\EP.CursoMvc.Domain\obj\Debug\EP.CursoMvc.Domain.dll
+A:\Videos\ASP.NET\Archives\MatMvcAgo17Adv_II\src\EP.CursoMvc.Domain\obj\Debug\EP.CursoMvc.Domain.pdb
